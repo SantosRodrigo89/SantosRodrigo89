@@ -8,6 +8,7 @@ Entre minhas capacidades técnicas posso destacar o React.js, HTML, JavaScript, 
     <br>
 
 <a href="https://github.com/SantosRodrigo89">
+    <img  height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=SantosRodrigo89&show_icons=true&theme=radical&locale=en&layout=compact" alt="Rodrigo" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantosRodrigo89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
   <br>
