@@ -4,6 +4,8 @@ Sou Rodrigo, formado em Administração de Empresas. Antes da minha transição 
 
 Entre minhas capacidades técnicas posso destacar o React.js, HTML, JavaScript, CSS, as quais pude desenvolver através de projetos práticos, individuais e em equipe ao longo da minha formação, no Bootcamp integral Fullstack Web da Labenu. E Análise e Desenvolvimento de Sistemas,  que está me andamento, na FIAP.
 
+Atualmente trabalhando como Dev FullStack na CDC Card
+
 <div align="center">
     <br>
 
