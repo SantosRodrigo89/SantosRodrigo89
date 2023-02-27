@@ -6,7 +6,11 @@ Entre minhas capacidades técnicas posso destacar o React.js, HTML, JavaScript, 
 
 Cursando Análise e Desenvolvimento de Sistemas, na FIAP, melhor faculdade de tecnologia do Brasil.
 
-Atualmente trabalhando como Dev FullStack na CDC Card onde desenvolvemos utilizando React.js, PHP na Framework CodeIgniter, microserviço em Nest.js
+Atualmente trabalhando como Dev FullStack na CDC Card onde desenvolvemos utilizando React.js, PHP na Framework CodeIgniter, microserviço em Nest.js. Trabalhamos com frameworks ágeis como SCRUM e utilizamos a ferramenta JIRA.
+
+Segue meu repositório do Git Lab onde também possuo projetos:
+
+https://gitlab.com/SantosRodrigo89
 
 <div align="center">
     <br>
