@@ -6,7 +6,9 @@ Entre minhas capacidades técnicas posso destacar o React.js, HTML, JavaScript, 
 
 Cursando Análise e Desenvolvimento de Sistemas, na FIAP, melhor faculdade de tecnologia do Brasil.
 
-Atualmente trabalhando como Dev FullStack na CDC Card onde desenvolvemos utilizando React.js, PHP na Framework CodeIgniter, microserviço em Nest.js. Trabalhamos com frameworks ágeis como SCRUM e utilizamos a ferramenta JIRA.
+Trabalhei como Dev FullStack na CDC Card onde desenvolvemos utilizando React.js, PHP na Framework CodeIgniter, microserviço em Nest.js. Trabalhamos com frameworks ágeis como SCRUM e utilizamos a ferramenta JIRA.
+
+Atualmente trabalho na Minu, Martech de grande porte onde trabalho com MongoDb, JS Vanilla e complexas regras de negócio onde preciso aplicar diversas lógicas de programação tendo contato com diversos setores da empresa precisando assim de intenso soft skill interpessoal e de análise espacial. Trabalhamos com frameworks ágeis como SCRUM e utilizamos a ferramenta JIRA.
 
 Segue meu repositório do Git Lab onde também possuo projetos:
 
