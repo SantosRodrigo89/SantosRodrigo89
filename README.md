@@ -4,15 +4,11 @@ Sou Rodrigo, formado em Administração de Empresas. Antes da minha transição 
 
 Entre minhas capacidades técnicas posso destacar o React.js, HTML, JavaScript, CSS, as quais pude desenvolver através de projetos práticos, individuais e em equipe ao longo da minha formação, no Bootcamp integral Fullstack Web da Labenu. 
 
-Cursando Análise e Desenvolvimento de Sistemas, na FIAP, melhor faculdade de tecnologia do Brasil.
+Cursando Análise e Desenvolvimento de Sistemas, na FIAP, melhor faculdade de tecnologia do Brasil. Top 3 no Next e premiado pela Heinz em evento promovido para a faculdade onde reconhece os melhores alunos e trabalhos.
 
 Trabalhei como Dev FullStack na CDC Card onde desenvolvemos utilizando React.js, PHP na Framework CodeIgniter, microserviço em Nest.js. Trabalhamos com frameworks ágeis como SCRUM e utilizamos a ferramenta JIRA.
 
 Atualmente trabalho na Minu, Martech de grande porte onde trabalho com MongoDb, JS Vanilla e complexas regras de negócio onde preciso aplicar diversas lógicas de programação tendo contato com diversos setores da empresa precisando assim de intenso soft skill interpessoal e de análise espacial. Trabalhamos com frameworks ágeis como SCRUM e utilizamos a ferramenta JIRA.
-
-Segue meu repositório do Git Lab onde também possuo projetos:
-
-https://gitlab.com/SantosRodrigo89
 
 <div align="center">
     <br>
