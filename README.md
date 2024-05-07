@@ -1,14 +1,14 @@
-### Oi muito prazer! Seja muito bem-vindo! 👋
+### Hi, nice to meet you! Welcome aboard! 👋
 
-Sou Rodrigo, formado em Administração de Empresas. Antes da minha transição de carreira fui empreendedor no ramo gastronômico, trabalhei com gerência e marketing digital. Também atuei na área de consultoria de investimentos, em Fintech. 
+I'm Rodrigo, holding a degree in Business Administration. Prior to my career transition, I was an entrepreneur in the gastronomic sector, worked in management, and digital marketing. I also worked in investment consulting, in Fintech.
 
-Entre minhas capacidades técnicas posso destacar o React.js, HTML, JavaScript, CSS, as quais pude desenvolver através de projetos práticos, individuais e em equipe ao longo da minha formação, no Bootcamp integral Fullstack Web da Labenu. 
+Among my technical skills, I can highlight React.js, HTML, JavaScript, CSS, which I developed through practical projects, both individually and in teams during my training at Labenu's Fullstack Web Bootcamp.
 
-Cursando Análise e Desenvolvimento de Sistemas, na FIAP, melhor faculdade de tecnologia do Brasil. Top 3 no Next e premiado pela Heinz em evento promovido para a faculdade onde reconhece os melhores alunos e trabalhos.
+Currently pursuing a degree in Systems Analysis and Development at FIAP, the top technology college in Brazil. Ranked Top 3 in Next and awarded by Heinz at an event for the college, recognizing the best students and works.
 
-Trabalhei como Dev FullStack na CDC Card onde desenvolvemos utilizando React.js, PHP na Framework CodeIgniter, microserviço em Nest.js. Trabalhamos com frameworks ágeis como SCRUM e utilizamos a ferramenta JIRA.
+I worked as a FullStack Dev at CDC Card where we developed using React.js, PHP in the CodeIgniter Framework, microservice in Nest.js. We worked with agile frameworks like SCRUM and used the JIRA tool.
 
-Atualmente trabalho na Minu, Martech de grande porte onde trabalho com MongoDb, JS Vanilla, Node.JS, React.JS, Next.js e complexas regras de negócio onde preciso aplicar diversas lógicas de programação tendo contato com diversos setores da empresa precisando assim de intenso soft skill interpessoal e de análise espacial. Trabalhamos com frameworks ágeis como SCRUM e utilizamos a ferramenta JIRA.
+Currently, I work at Minu, a large-scale Martech where I work with MongoDB, Vanilla JS, Node.JS, React.JS, Next.js, and complex business rules where I need to apply various programming logics, having contact with various sectors of the company thus requiring intense interpersonal soft skills and spatial analysis. We work with agile frameworks like SCRUM and use the JIRA tool.
 
 <div align="center">
     <br>
