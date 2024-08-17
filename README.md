@@ -14,7 +14,7 @@ Currently, I work at Minu, a large-scale Martech where I work with MongoDB, Vani
     <br>
 
 <a href="https://github.com/SantosRodrigo89">
-    <img  height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=SantosRodrigo89&show_icons=true&theme=radical&locale=en&layout=compact&hide=php,CSS,SCSS,html" alt="Rodrigo" />
+    <img  height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=SantosRodrigo89&show_icons=true&theme=radical&locale=en&layout=compact" alt="Rodrigo" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantosRodrigo89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
   <br>
